@@ -64,7 +64,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
-  <img src="https://www.hiclipart.com/free-transparent-background-png-clipart-suphr" width="40" />
+  <img src="https://www.pngegg.com/en/png-tqvoj" width="40" />
 
 </p>
 
