@@ -15,9 +15,9 @@
 - ⚡ What I'm Building :-
 - I'm interested in building real-world applications that are useful, scalable, and easy to use.
 - 🌱 Currently Growing In :-
-- • 🧠  Advanced Full-Stack Development
-- • 🏗️ Backend Architecture & System Design
-- •🤖 AI & Intelligent Applications
+- - 🧠  Advanced Full-Stack Development
+- - 🏗️ Backend Architecture & System Design
+- - 🤖 AI & Intelligent Applications
 - 🎯 My Development Philosophy
 - Learn → Build → Break → Debug → Improve → Repeat
 - I don't want to just learn technologies.
