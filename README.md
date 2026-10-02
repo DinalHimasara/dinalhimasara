@@ -64,7 +64,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
-  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express.js" width="40" />
+  <img src="https://github.com/FortAwesome/Font-Awesome/issues/13198" alt="Express.js" width="40" />
 
 </p>
 
