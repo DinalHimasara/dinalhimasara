@@ -10,18 +10,18 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🎓 I'm an ICT undergraduate at Uva Wellassa University
-- 🚀 passionate Full-Stack Developer who enjoys turning ideas and real-world problems into practical software solutions.
-- ⚡ What I'm Building :-
-- I'm interested in building real-world applications that are useful, scalable, and easy to use.
-- 🌱 Currently Growing In :-
+🎓 I'm an ICT undergraduate at Uva Wellassa University
+🚀 passionate Full-Stack Developer who enjoys turning ideas and real-world problems into practical software solutions.
+⚡ What I'm Building :-
+   I'm interested in building real-world applications that are useful, scalable, and easy to use.
+🌱 Currently Growing In :-
 - - 🧠  Advanced Full-Stack Development
 - - 🏗️ Backend Architecture & System Design
 - - 🤖 AI & Intelligent Applications
-- 🎯 My Development Philosophy
-- Learn → Build → Break → Debug → Improve → Repeat
-- I don't want to just learn technologies.
-- I want to build with them. 🚀
+🎯 My Development Philosophy
+  Learn → Build → Break → Debug → Improve → Repeat
+I don't want to just learn technologies.
+I want to build with them. 🚀
 
 
 ## 🧠 My Focus Areas
