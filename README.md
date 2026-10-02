@@ -19,7 +19,7 @@
 - - 🤖 AI & Intelligent Applications
 - 🎯 My Development Philosophy
 -Learn → Build → Break → Debug → Improve → Repeat
--I don't want to just learn technologies. I want to build with them. 🚀
+- I don't want to just learn technologies. I want to build with them. 🚀
 
 
 ## 🧠 My Focus Areas
