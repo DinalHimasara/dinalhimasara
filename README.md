@@ -64,7 +64,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express.js" width="40" />
 
 </p>
 
@@ -104,7 +104,7 @@
 </p>
 
 ## 💬 Quote
-> LIFE IS A WELL-PLANNED GAME OF CHESS. HOW YOU PLAY IT IS ENTIRELY UP TO YOU.
+> Life is a well-planned game of chess. How you play it is entirely up to you!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
