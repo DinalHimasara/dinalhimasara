@@ -12,9 +12,8 @@
 ## 📌 About Me
 🎓 I'm an ICT undergraduate at Uva Wellassa University
 🚀 passionate Full-Stack Developer who enjoys turning ideas and real-world problems into practical software solutions.
-⚡ What I'm Building :-
-   I'm interested in building real-world applications that are useful, scalable, and easy to use.
-🌱 Currently Growing In :-
+⚡ I'm interested in building real-world applications that are useful, scalable, and easy to use.
+- 🌱 Currently Growing In :-
 - - 🧠  Advanced Full-Stack Development
 - - 🏗️ Backend Architecture & System Design
 - - 🤖 AI & Intelligent Applications
